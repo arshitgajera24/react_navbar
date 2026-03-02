@@ -9,7 +9,6 @@ export const Navbar = () => {
         setShowMenu(!showMenu);
     }
 
-
     return (
         <header>
             <div className="container">
